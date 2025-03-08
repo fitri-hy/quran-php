@@ -5,8 +5,8 @@ Daftar lengkap surat dalam Al-Qur\'an, Doa Harian, Asmaul Husna, dan Jadwal Shol
 ### Penginstalan
 
 ```
-git clone 
-cd 
+git clone https://github.com/fitri-hy/quran-php.git
+cd quran-php
 composer install
 composer dump-autoload
 npm install
